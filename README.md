@@ -1,1 +1,1 @@
-![Logo](imgpage.png)
+![Logo](imgpage.PNG)
